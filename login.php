@@ -28,7 +28,7 @@ if ($conn->connect_error) {
     // Thực hiện các hành động cần thiết, ví dụ như đưa người dùng
     vào trang chào mừng
     } else {
-    // Nếu không, đăng nhập không thành công
+    // Nếu không, đăng nhập không thành côog
     echo "Bạn đã đăng nhập không thành công"; }
     }
     ?>
